@@ -15,3 +15,11 @@ José Gabriel lópez Arce
 ## Estado del proyecto 
  
 Proyecto en etapa inicial.
+## Control de versiones 
+ 
+Este proyecto utiliza Git para el control de versiones y GitHub como repositorio remoto. 
+
+git status 
+git add README.md 
+git commit -m "Agrega información sobre control de versiones" 
+git push 
